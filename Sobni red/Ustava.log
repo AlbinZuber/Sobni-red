@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.25)  25 FEB 2025 19:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.25)  25 FEB 2025 19:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/albin/Documents/Albinov-Curriculum/Sobni red/Ustava.tex"
-(c:/Users/albin/Documents/Albinov-Curriculum/Sobni red/Ustava.tex
+**"c:/Users/albin/Albinov-RP/Sobni-red/Sobni red/Ustava.tex"
+(c:/Users/albin/Albinov-RP/Sobni-red/Sobni red/Ustava.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (C:\Users\albin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -140,11 +140,11 @@ LaTeX Font Info:    ... okay on input line 10.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(85.35826pt, 422.52252pt, 89.62709pt)
-* v-part:(T,H,B)=(101.40665pt, 715.18745pt, 28.45274pt)
+* v-part:(T,H,B)=(101.40665pt, 686.7347pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=422.52252pt
-* \textheight=715.18745pt
+* \textheight=686.7347pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
 * \topmargin=-7.86334pt
@@ -186,16 +186,16 @@ L3 programming layer <2024-12-25>
  ) 
 Here is how much of TeX's memory you used:
  2406 strings out of 473536
- 41359 string characters out of 5714956
- 447369 words of memory out of 5000000
+ 41303 string characters out of 5714956
+ 446369 words of memory out of 5000000
  25649 multiletter control sequences out of 15000+600000
  564636 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,332b,205s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,324b,207s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\albin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\albin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\albin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\albin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Users/albin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-Output written on Ustava.pdf (2 pages, 41406 bytes).
+Output written on Ustava.pdf (2 pages, 41950 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
+ 95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

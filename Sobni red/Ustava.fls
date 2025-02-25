@@ -1,6 +1,6 @@
-PWD c:\Users\albin\Documents\Albinov-Curriculum\Sobni red
+PWD c:\Users\albin\Albinov-RP\Sobni-red\Sobni red
 INPUT C:\Users\albin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\albin\Documents\Albinov-Curriculum\Sobni red\Ustava.tex
+INPUT c:\Users\albin\Albinov-RP\Sobni-red\Sobni red\Ustava.tex
 OUTPUT Ustava.log
 INPUT C:\Users\albin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\albin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
